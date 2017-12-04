@@ -8,6 +8,7 @@ namespace ConsoleApp13
 {
     class Program
     {
+	// если N=10000, то переполнение
         static void Main(string[] args)
         {
             int N  = Convert.ToInt32(Console.ReadLine());

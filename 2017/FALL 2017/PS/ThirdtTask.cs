@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp12
 {
+	// ---check--- не компилируется
     class Program
     {
         

@@ -16,6 +16,7 @@ namespace ConsoleApp1
             for (var i = 0; i <= 1000000; i++) 
              {
                 var number = i;
+		// ---check--- ваш цикл остановится вообще?
                 while (i!=0)
                 {
                     int a = i;
@@ -25,6 +26,7 @@ namespace ConsoleApp1
                     }
                     a = a - 1;
                 }
+		// ---check--- почему % ??
                 if (sumOfDividers%(2*i)==0)
                 {
                    amountOfNumbers += 1;

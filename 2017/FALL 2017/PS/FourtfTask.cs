@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace kklk
 {
+	// ---check--- ни в одном файле комментариев нет(
     class Program
     {
         static void Main()
